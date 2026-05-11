@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      version="2.0">
   <channel>
     <title>Buchio Updates</title>
     <link>https://s0571584.github.io/buchio-releases/appcast.xml</link>
-    <description>Auto-Update-Feed fÃ¼r Buchio</description>
+    <description>Auto-Update-Feed for Buchio</description>
     <language>de</language>
 
     <item>
@@ -13,10 +13,7 @@
       <pubDate>Sat, 09 May 2026 15:29:51 +0000</pubDate>
       <sparkle:version>1.0.0+1</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <description><![CDATA[
-        <h3>Buchio 1.0.0</h3>
-        <p>Release.</p>
-      ]]></description>
+      <description><![CDATA[<h3>Buchio 1.0.0</h3><p>Release.</p>]]></description>
       <enclosure
         url="https://s0571584.github.io/buchio-releases/Buchio-1.0.0-windows.zip"
         sparkle:os="windows"
@@ -30,10 +27,7 @@
       <pubDate>Sun, 10 May 2026 00:12:54 +0000</pubDate>
       <sparkle:version>1.0.1+2</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <description><![CDATA[
-        <h3>Buchio 1.0.1</h3>
-        <p>Release.</p>
-      ]]></description>
+      <description><![CDATA[<h3>Buchio 1.0.1</h3><p>Release.</p>]]></description>
       <enclosure
         url="https://s0571584.github.io/buchio-releases/Buchio-1.0.1-windows.zip"
         sparkle:os="windows"
@@ -47,10 +41,7 @@
       <pubDate>Sun, 10 May 2026 13:08:01 +0000</pubDate>
       <sparkle:version>1.0.2+3</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-      <description><![CDATA[
-        <h3>Buchio 1.0.2</h3>
-        <p>Release.</p>
-      ]]></description>
+      <description><![CDATA[<h3>Buchio 1.0.2</h3><p>Release.</p>]]></description>
       <enclosure
         url="https://s0571584.github.io/buchio-releases/Buchio-1.0.2-windows.zip"
         sparkle:os="windows"
@@ -64,10 +55,7 @@
       <pubDate>Mon, 11 May 2026 18:31:48 +0000</pubDate>
       <sparkle:version>1.0.3+4</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <description><![CDATA[
-        <h3>Buchio 1.0.3</h3>
-        <p>Release.</p>
-      ]]></description>
+      <description><![CDATA[<h3>Buchio 1.0.3</h3><p>Release.</p>]]></description>
       <enclosure
         url="https://s0571584.github.io/buchio-releases/Buchio-1.0.3-windows.zip"
         sparkle:os="windows"
@@ -81,10 +69,7 @@
       <pubDate>Mon, 11 May 2026 18:51:05 +0000</pubDate>
       <sparkle:version>1.0.4+5</sparkle:version>
       <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-      <description><![CDATA[
-        <h3>Buchio 1.0.4</h3>
-        <p>Release.</p>
-      ]]></description>
+      <description><![CDATA[<h3>Buchio 1.0.4</h3><p>Release.</p>]]></description>
       <enclosure
         url="https://s0571584.github.io/buchio-releases/Buchio-1.0.4-windows.zip"
         sparkle:os="windows"
@@ -98,10 +83,7 @@
       <pubDate>Mon, 11 May 2026 21:27:29 +0000</pubDate>
       <sparkle:version>1.0.5+6</sparkle:version>
       <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-      <description><![CDATA[
-        <h3>Buchio 1.0.5</h3>
-        <p>Release.</p>
-      ]]></description>
+      <description><![CDATA[<h3>Buchio 1.0.5</h3><p>Release.</p>]]></description>
       <enclosure
         url="https://s0571584.github.io/buchio-releases/Buchio-1.0.5-windows.zip"
         sparkle:os="windows"
