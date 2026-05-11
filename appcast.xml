@@ -64,5 +64,22 @@
         length="31157821"
         type="application/octet-stream" />
     </item>
+      <item>
+      <title>Buchio 1.0.3</title>
+      <pubDate>Mon, 11 May 2026 18:31:48 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.3</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-1.0.3-windows.zip"
+        sparkle:os="windows"
+        sparkle:version="4"
+        sparkle:shortVersionString="1.0.3"
+        length="31169242"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
