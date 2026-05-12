@@ -9,6 +9,24 @@
     <language>de</language>
 
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -24,6 +42,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -45,6 +81,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -60,6 +114,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -77,6 +149,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -92,6 +182,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -113,6 +221,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -128,6 +254,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -145,6 +289,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -160,6 +322,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -181,6 +361,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -196,6 +394,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -213,6 +429,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -228,6 +462,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -249,6 +501,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -264,6 +534,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -281,6 +569,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -296,6 +602,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -317,6 +641,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -332,6 +674,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -349,6 +709,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -364,6 +742,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
@@ -385,6 +781,24 @@
         type="application/octet-stream" />
     </item>
     <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Buchio 1.0.7</title>
       <pubDate>Tue, 12 May 2026 16:42:57 +0000</pubDate>
       <sparkle:version>1.0.7.8</sparkle:version>
@@ -400,6 +814,24 @@
         sparkle:shortVersionString="1.0.7"
         sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
         length="23329475"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Buchio 1.0.8</title>
+      <pubDate>Tue, 12 May 2026 17:45:19 +0000</pubDate>
+      <sparkle:version>1.0.8.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h3>Buchio 1.0.8</h3>
+        <p>Automatischer Release.</p>
+      ]]></description>
+      <enclosure
+        url="https://s0571584.github.io/buchio-releases/Buchio-Setup-1.0.8.exe"
+        sparkle:os="windows"
+        sparkle:version="1.0.8.9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:installerArguments="/SILENT /SUPPRESSMSGBOXES /NORESTART"
+        length="23333369"
         type="application/octet-stream" />
     </item>
     <item>
